@@ -1,0 +1,15 @@
+{
+  "name": "1.project_setup",
+  "version": "1.0.0",
+  "description": "First professional backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Indrajit",
+  "license": "ISC"
+}
